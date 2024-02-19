@@ -1,33 +1,20 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# AI 로펌 프로젝트
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+ AI 로펌 
+이 프로젝트를 하게 된 계기는 여러한 주제 중 저와 같은 법에 무지한 사람들이 어떻게 법에 도움을 편하게 받아서 이용할 수 있을까에 대해 고민하다가 나온 주제를 팀원의 투표하에 제일 많은 투표를 받게 되어 진행하게 되었습니다. 그리하여 팀이름은 AI 로펌으로 지정하게 되었습니다.
 
 ![](../header.png)
+![Untitled](https://github.com/Gom534/AI-/assets/155363678/275d397c-b02c-4b0d-a770-16902cdbaa10)
 
-## 설치 방법
 
-OS X & 리눅스:
+## 계발 계획 
 
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
 
 ## 사용 예제
 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
+
 
 ## 개발 환경 설정
 
@@ -38,24 +25,11 @@ make install
 npm test
 ```
 
-## 업데이트 내역
 
-* 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
-* 0.1.0
-    * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
-* 0.0.1
-    * 작업 진행 중
 
 ## 정보
 
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
+이정우  wjddntyvld@naver.com
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
